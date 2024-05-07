@@ -5,8 +5,7 @@
 <p>O aplicativo escolhido para ser testado é o streaming de músicas: Spotify.</p>
 
 # Pré-requisitos
-<p>Os sofwtares utilizados para a realização dos testes são: Excel e SeleniumIDE, os arquivos do repositório ((https://github.com/Testorugo/Teste-Caixa-Preta-Spotify/files/15225634/Plano_De_Testes_Spotify.xlsx)
-e [Uploading Spotify.side…]()) são respectivamente proveninentes desses softwares.</p>
+<p>Os sofwtares utilizados para a realização dos testes são: Excel e SeleniumIDE, os arquivos do repositório (Plano_De_Testes_Spotify.xlsx e Spotify.side) são respectivamente proveninentes desses softwares.</p>
 
 # Instalação
 
